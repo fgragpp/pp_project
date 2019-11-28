@@ -2,4 +2,4 @@ import os
 
 BASE_DIR = __file__
 
-DATABASE = {}
+DATABASE = {1.1.1.1}
